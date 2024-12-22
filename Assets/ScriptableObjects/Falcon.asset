@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87eb78a42d51454487e8f6559592de1, type: 3}
+  m_Name: Falcon
+  m_EditorClassIdentifier: 
+  _animalName: Falcon
+  _animalSprite: {fileID: 21300000, guid: db311b563b5dafb4b9618fe0bdd5d128, type: 3}
+  movementType: 0
+  animalType: 0
+  eatingType: 0
+  livingType: 0
+  birthType: 0
+  _description: 'Falcons are birds of prey in the genus Falco which includes about
+    40 species. Falcons are widely distributed on all continents except Antarctica. '
